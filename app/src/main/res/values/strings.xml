@@ -1,0 +1,99 @@
+<resources>
+    <string name="app_name">HomeAutomation</string>
+    <string name="title_activity_menu_utama">MenuUtama</string>
+    <string name="title_shop">Shop</string>
+    <string name="title_gifts">Gifts</string>
+    <string name="title_cart">Cart</string>
+    <string name="title_profile">Profile</string>
+    <string name="access_token">pk.eyJ1IjoiaGFuZG9rb2JpbWF3ZGoiLCJhIjoiY2s2aTF1ZGdnMTF3dDNlbWw1OGV4bDdrdiJ9.LkvhEKfpSw-t2CwoGqfZNw</string>
+
+    <string name="line_distance_textview">Line distance in %1$s: %2$s</string>
+    <string name="line_distance_tap_instruction">Tap on map at least twice to create and measure a line</string>
+    <string name="map_key" translatable="false"> AIzaSyB_qsP8AOP_P0MdlPz-48TDaJYjTP3vbjo</string>
+    <string name="new_location">New lat: %1$s New longitude: %2$s</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="capital" />
+    <string name="tap_on_marker_instruction" />
+    <!--Location Picker -->
+    <string name="move_map_instruction">Move map to place\nmarker at desired location</string>
+    <string name="location_picker_select_location_button_cancel">Cancel</string>
+    <string name="location_picker_select_location_button_select">Select a location</string>
+    <string name="user_location_permission_not_granted">You didn\'t grant location permissions.</string>
+    <string name="user_location_permission_explanation">This app needs location permissions in order to show its functionality.</string>
+    <string name="location_picker_place_name_result">Place name: %1$s</string>
+    <string name="location_picker_dropped_marker_snippet_no_results">No results</string>
+    <string name="directions_activity_toast_message">Route is %1$f meters long.</string>
+
+    <string-array name="android_layout_arrays">
+        <item>59</item>
+        <item>58</item>
+        <item>57</item>
+        <item>56</item>
+        <item>55</item>
+        <item>54</item>
+        <item>55</item>
+        <item>54</item>
+        <item>53</item>
+        <item>52</item>
+        <item>51</item>
+        <item>50</item>
+        <item>49</item>
+        <item>48</item>
+        <item>47</item>
+        <item>46</item>
+        <item>45</item>
+        <item>44</item>
+        <item>43</item>
+        <item>42</item>
+        <item>41</item>
+        <item>40</item>
+        <item>39</item>
+        <item>38</item>
+        <item>37</item>
+        <item>35</item>
+        <item>34</item>
+        <item>33</item>
+        <item>32</item>
+        <item>31</item>
+        <item>30</item>
+        <item>29</item>
+        <item>28</item>
+        <item>27</item>
+        <item>26</item>
+        <item>25</item>
+        <item>24</item>
+        <item>23</item>
+        <item>22</item>
+        <item>21</item>
+        <item>20</item>
+        <item>19</item>
+        <item>18</item>
+        <item>17</item>
+        <item>16</item>
+        <item>15</item>
+        <item>14</item>
+        <item>13</item>
+        <item>12</item>
+        <item>11</item>
+        <item>10</item>
+        <item>9</item>
+        <item>8</item>
+        <item>7</item>
+        <item>6</item>
+        <item>5</item>
+        <item>4</item>
+        <item>3</item>
+        <item>2</item>
+        <item>1</item>
+        <item>0</item>
+    </string-array>
+    <string name="no_location_detected">
+        No location detected. Make sure location is enabled on the device.
+    </string>
+    <string name="permission_rationale">Location permission is needed for core functionality</string>
+    <string name="permission_denied_explanation">Permission was denied, but is needed for core
+        functionality.</string>
+    <string name="settings">Settings</string>
+</resources>
